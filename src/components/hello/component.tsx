@@ -1,7 +1,4 @@
 import React, { FunctionComponent } from "react";
-import "./styles.scss";
-
-// // // //
 
 export const Hello: FunctionComponent = () => {
     return (
